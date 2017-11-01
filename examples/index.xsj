@@ -1,0 +1,15 @@
+<html>
+  <name>index</name>
+
+  <head>
+    <title>Hello, world!</title>
+  </head>
+
+  <elem from='./myapp'>
+    <myapp>MyApp</myapp>
+  </elem>
+
+  <body>
+    <myapp></myapp>
+  </body>
+</html>

@@ -1,0 +1,28 @@
+<HTMLElement>
+  <name>MyApp</name>
+
+  <elem>
+    <myfooter>myFooter</myfooter>
+  </elem>
+
+  <style>
+    p { font-weight: bold; }
+  </style>
+
+  <dom>
+    <p>Hello, {{name}}!</p>
+    <myfooter></myfooter>
+  </dom>
+
+  <render>
+    this.name = 'XSJ'
+  </render>
+</HTMLElement>
+
+<HTMLElement private>
+  <name>myFooter</name>
+
+  <dom>
+    <footer>Powered by XSJ.</footer>
+  </dom>
+</HTMLElement>
