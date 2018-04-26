@@ -26,13 +26,13 @@
   },
   "homepage": "https://github.com/anqurvanillapy/xsj#readme",
   "devDependencies": {
-    "babel-core": "^6.26.0",
-    "babel-loader": "^7.1.2",
+    "babel-core": "^6.26.2",
+    "babel-loader": "^7.1.4",
     "babel-preset-env": "^1.6.1",
-    "eslint": "^4.10.0",
+    "eslint": "^4.19.1",
     "jest": "^21.2.1",
     "rimraf": "^2.6.2",
-    "webpack": "^3.8.1"
+    "webpack": "^3.11.0"
   },
   "dependencies": {
     "xml2js": "^0.4.19"
